@@ -1,0 +1,150 @@
+{
+  "0001": {
+    "title": "Self-Portrait with Skull",
+    "date": "1977",
+    "photographer": "Andy Warhol",
+    "description": "",
+    "credit": "PolaroidTM Polacolor Type 108. The Andy Warhol Museum, Pittsburgh; Founding collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. 1998.1.2866 © The Andy Warhol Foundation for the Visual Arts",
+    "alt": "Andy Warhol standing inside the Factory",
+    "categories": [
+      "Andy Warhol",
+      "Polaroid",
+      "Skull",
+      "Self-Portrait",
+      "1970s"
+    ],
+    "related": [
+      "0002"
+    ],
+    "image": "images/1998.1.2866.png"
+  },
+  "0002": {
+    "title": "Self-Portrait",
+    "date": "1981",
+    "photographer": "Andy Warhol",
+    "description": "",
+    "credit": "PolaroidTM Polacolor Type 108. The Andy Warhol Museum, Pittsburgh; Founding collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. 1998.1.2873 © The Andy Warhol Foundation for the Visual Arts",
+    "alt": "Interior of the Factory",
+    "categories": [
+      "Andy Warhol",
+      "Polaroid",
+      "Self-Portrait",
+      "Fashion",
+      "1980s"
+    ],
+    "related": [
+      "0001"
+    ],
+    "image": "images/1998.1.2873.png"
+  },
+  "0003": {
+    "title": "Dolly Parton",
+    "date": "1985",
+    "photographer": "Andy Warhol",
+    "description": "Dolly Rebecca Parton Dean (January 19, 1946 – August 25, 2026) was an American singer-songwriter, actress and businesswoman. Dubbed the \"Queen of Country\", Parton was one of the most successful country music performers in history. She was also known for her cultural influence and philanthropy, particularly through <em>Dollywood</em> and the <em>Dollywood Foundation</em>. With more than 100 million records sold, Parton is among the best-selling music artists ever.",
+    "credit": "PolaroidTM Polacolor Type 108. The Andy Warhol Museum, Pittsburgh; Founding collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. 2000.2.134 © The Andy Warhol Foundation for the Visual Arts",
+    "alt": "Andy Warhol with friends",
+    "categories": [
+      "Music",
+      "Polaroid",
+      "Portrait"
+    ],
+    "related": [
+      "0004"
+    ],
+    "image": "images/2000.2.134.png"
+  },
+  "0004": {
+    "title": "Dolly Parton",
+    "date": "1985",
+    "photographer": "Andy Warhol",
+    "description": "Dolly Rebecca Parton Dean (January 19, 1946 – August 25, 2026) was an American singer-songwriter, actress and businesswoman. Dubbed the \"Queen of Country\", Parton was one of the most successful country music performers in history. She was also known for her cultural influence and philanthropy, particularly through <em>Dollywood</em> and the <em>Dollywood Foundation</em>. With more than 100 million records sold, Parton is among the best-selling music artists ever.",
+    "credit": "PolaroidTM Polacolor Type 108. The Andy Warhol Museum, Pittsburgh; Founding collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. 2000.2.136 © The Andy Warhol Foundation for the Visual Arts",
+    "alt": "Andy Warhol with friends",
+    "alt": "People gathered at a Factory party",
+    "categories": [
+      "Music",
+      "Polaroid",
+      "Portrait"
+    ],
+    "related": [
+      "0003"
+    ],
+    "image": "images/2000.2.136.png"
+  },
+  "0005": {
+    "title": "Fashion",
+    "date": "1981",
+    "photographer": "Andy Warhol",
+    "description": "Paola González Dominguín , better known as Paola Dominguín (born November 5, 1960), is a Spanish actress, entrepreneur, and fashion designer.",
+    "credit": "PolaroidTM Polacolor Type 108. The Andy Warhol Museum, Pittsburgh; Founding collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. 2001-2-1803 © The Andy Warhol Foundation for the Visual Arts",
+    "alt": "New York street scene",
+    "categories": [
+      "Fashion",
+      "Polaroid",
+      "Paola Dominguin",
+      "1980s"
+    ],
+    "related": [
+
+    ],
+    "image": "images/2001-2-1803.png"
+  },
+  "0006": {
+    "title": "Easter Eggs",
+    "date": "1982",
+    "photographer": "Andy Warhol",
+    "description": "",
+    "credit": "Photographic Material, Polaroid™ Polacolor 2, 4 1/4 x 3 3/8 in. (10.8 x 8.6 cm.), 2001.2.1694, The Andy Warhol Museum, Pittsburgh; Contribution The Andy Warhol Foundation for the Visual Arts, Inc., © The Andy Warhol Foundation for the Visual Arts, Inc.",
+    "alt": "Portrait photograph",
+    "categories": [
+      "Polaroid",
+      "Eggs",
+      "Food",
+      "Still Life",
+      "1980s"
+    ],
+    "related": [
+
+    ],
+    "image": "images/2001.2.1694.png"
+  },
+  "0007": {
+    "title": "Self-Portrait",
+    "date": "1963-1964",
+    "photographer": "Andy Warhol",
+    "description": "",
+    "credit": "Photobooth photograph, 1998.1.2751, The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. © The Andy Warhol Foundation for the Visual Arts, Inc.",
+    "alt": "Portrait photograph",
+    "categories": [
+      "Andy Warhol",
+      "Photobooth",
+      "Self-Portrait",
+      "1960s"
+    ],
+    "related": [
+      "0008"
+    ],
+    "image": "images/1998.1.2751.png"
+  },
+
+  "0008": {
+    "title": "Self-Portrait",
+    "date": "1963-1964",
+    "photographer": "Andy Warhol",
+    "description": "",
+    "credit": "Photobooth photograph, 1998.1.2748, The Andy Warhol Museum, Pittsburgh; Founding Collection, Contribution The Andy Warhol Foundation for the Visual Arts, Inc. © The Andy Warhol Foundation for the Visual Arts, Inc.",
+    "alt": "Portrait photograph",
+    "categories": [
+      "Andy Warhol",
+      "Photobooth",
+      "Self-Portrait",
+      "1960s"
+    ],
+    "related": [
+      "0007"
+    ],
+    "image": "images/1998.1.2748.png"
+  }
+}
+

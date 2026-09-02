@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex, nofollow">
+
+	<title>Lookup</title>
+
+	<link rel="stylesheet" href="css/styles.css">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+	<main class="app">
+
+		<section id="searchView" class="view search-view">
+
+			<header class="search-header">
+
+				<h1>Warhol Photos</h1>
+
+				<p>
+					Enter a number
+				</p>
+
+			</header>
+
+
+			<form id="searchForm" class="search-form">
+
+				<label class="sr-only" for="photoNumber">
+					Photograph number
+				</label>
+
+				<input id="photoNumber" type="text" inputmode="numeric" autocomplete="off" maxlength="4" placeholder=""
+					aria-label="Photograph number">
+
+				<button type="submit" class="primary-button">
+					Find
+				</button>
+
+			</form>
+			<div class="browse-section">
+				<h2>Browse the collection</h2>
+				<div id="allRecordsGrid" class="card-grid browse-grid"></div>
+			</div>
+
+
+			<!-- <div
+				class="keypad"
+				aria-label="Number keypad"
+			>
+
+				<button type="button" data-key="1">1</button>
+				<button type="button" data-key="2">2</button>
+				<button type="button" data-key="3">3</button>
+
+				<button type="button" data-key="4">4</button>
+				<button type="button" data-key="5">5</button>
+				<button type="button" data-key="6">6</button>
+
+				<button type="button" data-key="7">7</button>
+				<button type="button" data-key="8">8</button>
+				<button type="button" data-key="9">9</button>
+
+				<button type="button" data-key="clear">
+					Clear
+				</button>
+
+				<button type="button" data-key="0">
+					0
+				</button>
+
+				<button type="button" data-key="backspace">
+					⌫
+				</button>
+
+			</div> -->
+
+
+			<p id="searchMessage" class="message search-message" role="status" aria-live="polite"></p>
+
+		</section>
+
+
+
+		<section id="categoryView" class="view" hidden>
+
+			<div class="view-header">
+
+				<button type="button" id="categoryBackButton" class="text-button back-button">
+					← Search again
+				</button>
+
+				<h1 id="categoryTitle"></h1>
+
+			</div>
+
+
+			<div id="categoryGrid" class="card-grid related-grid"></div>
+
+		</section>
+
+
+
+		<section id="recordView" class="view" hidden>
+
+			<button type="button" id="backButton" class="text-button back-button">
+				← Search again
+			</button>
+
+			
+			<div class="record record-view">
+
+				<div class="record-image-wrap photo-wrap">
+
+					<img id="photoImage" class="record-image" src="" alt="">
+
+				</div>
+				
+
+
+				<div class="record-content">
+
+					
+
+					<p id="recordNumber" class="record-number"></p>
+					<div id="recordMetadataArtist" class="metadata"></div>
+					<div class="record-title">
+						<h1 id="recordTitle"></h1><span id="recordMetadataDate" class="metadata"></span>
+					</div>
+
+
+					<div id="recordCredit" class="credit"></div>
+
+
+					<div id="recordDescription" class="rich-text record-copy"></div>
+
+
+					
+
+
+					<!-- Categories -->
+
+					<div id="categoriesSection" class="detail-section" hidden>
+
+						<!-- <h2>
+							Explore by category
+						</h2> -->
+
+						<div id="categories" class="chips"></div>
+
+					</div>
+
+
+					<!-- Related photographs -->
+
+					<div id="relatedSection" class="detail-section" hidden>
+
+						<h2>
+							Related works
+						</h2>
+
+						<div id="relatedGrid" class="card-grid related-grid"></div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</section>
+
+	</main>
+
+
+	<script src="js/app.js"></script>
+
+</body>
+
+</html>
