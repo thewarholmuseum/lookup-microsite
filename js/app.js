@@ -213,6 +213,10 @@
 				event.preventDefault();
 
 				showCategory(category);
+				window.scrollTo({
+					top: 0,
+					// behavior: "smooth" // Smooth scrolling animation
+				});
 			});
 
 			container.appendChild(button);

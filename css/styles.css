@@ -18,11 +18,12 @@ body {
 
 button,
 input {
-  font: inherit
+  font: inherit;
 }
 
 button {
-  cursor: pointer
+  cursor: pointer;
+  color: black;
 }
 
 .app {
@@ -360,10 +361,6 @@ h1 {
 
   .keypad button {
     min-height: 60px
-  }
-
-  .photo-wrap img {
-    max-height: none
   }
 
   .metadata {
